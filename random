@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlih.h> // STanDard LIBrary
+//랜덤
+int main(void)
+{
+  printf("%d", rand());
+  printf("%d", rand());
+  printf("%d", rand());
+  printf("%d", rand());
+  printf("%d", rand());
+  printf("%d", rand());
+  return 0;
+}
